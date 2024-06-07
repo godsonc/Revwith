@@ -6,13 +6,13 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
 
-    baseUrl: 'https://purple-vest.enyata.com',
+    baseUrl: 'https://europa-sandbox.revwit.com/onboarding',
     viewportHeight: 1000,
     defaultCommandTimeout: 30000,
     viewportWidth: 1500,
     experimentalStudio: true,
-    force: true,
-    waitForAnimations: false,
+    // force: true,
+    // waitForAnimations: true,
 
 
   },
