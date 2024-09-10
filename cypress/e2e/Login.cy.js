@@ -26,7 +26,7 @@ it("Revwit", () => {
   cy.get('.mt-4').click();
   cy.get('.justify-around > :nth-child(1)').click();
   cy.get('.xl\\:mt-8').click();
-  cy.get('.xl\\:mt-8').click();
+  // cy.get('.xl\\:mt-8').click();
   // cy.get('.max-sm\\:text-xs').click();
   /* ==== End Cypress Studio ==== */
 });
